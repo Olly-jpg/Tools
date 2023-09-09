@@ -1,0 +1,6 @@
+[
+    {
+		"name": "Movement",
+		"uniques": ["Can pass through impassable tiles","Can see over obstacles","No movement cost to pillage","Can move after attacking","Ignores terrain cost"]
+    }
+]
