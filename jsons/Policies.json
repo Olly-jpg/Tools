@@ -140,22 +140,31 @@
                 "column": 7
             },
             {
-                "name": "[+10] Sight",
-                "uniques":
-                [
-                    "Free Social Policy","[+10] Sight <for [All] units>"
-                ],
-                "row": 1,
-                "column": 13
-            },
-            {
-                "name": "Free Gold cost of acquiring tiles",
+                "name": "[0]% Gold cost of acquiring tiles [in all cities]",
                 "uniques":
                 [
                     "Free Social Policy","[-100]% Gold cost of acquiring tiles [in all cities]"
                 ],
                 "row": 2,
                 "column": 10
+            },
+            {
+                "name": "[+1000]% Strength",
+                "uniques":
+                [
+                    "Free Social Policy","[+1000]% Strength <for [All] units>"
+                ],
+                "row": 1,
+                "column": 10
+            },
+            {
+                "name": "Armory",
+                "uniques":
+                [
+                    "Free Social Policy","New [Military] units start with [1000] Experience [in all cities]"
+                ],
+                "row": 1,
+                "column": 11
             },
             {
                 "name": "Movement",
@@ -166,6 +175,15 @@
                 ],
                 "row": 1,
                 "column": 12
+            },
+            {
+                "name": "[+10] Sight",
+                "uniques":
+                [
+                    "Free Social Policy","[+10] Sight <for [All] units>"
+                ],
+                "row": 1,
+                "column": 13
             },
             {
                 "name": "[Worker]",
@@ -195,12 +213,109 @@
                 "column": 13
             },
             {
+                "name": "Free Technology",
+                "uniques":
+                [
+                    "Free Social Policy","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology"
+                ],
+                "row": 3,
+                "column": 10
+            },
+            {
+                "name": "Free Social Policy",
+                "uniques":
+                [
+                    "Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy","Free Social Policy"
+                ],
+                "row": 3,
+                "column": 11
+            },
+            {
                 "name": "Complete",
+                "uniques": [
+                  "Exit [Tools] without [Free Social Policy]"
+                ],
+                "row": 1,
+                "column": 18
+            },
+            {
+                "name": "[Complete] II",
                 "uniques": [
                   "Exit [Tools] without [Free Social Policy]"
                 ],
                 "row": 2,
                 "column": 18
+            },
+            {
+                "name": "[Complete] III",
+                "uniques": [
+                  "Exit [Tools] without [Free Social Policy]"
+                ],
+                "row": 3,
+                "column": 18
+            },
+            {
+                "name": "[Production] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Production] [in all cities]"
+                ],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "[Culture] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Culture] [in all cities]"
+                ],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "[Gold] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Gold] [in all cities]"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "[Science] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Science] [in all cities]"
+                ],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "[Faith] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Faith] [in all cities]"
+                ],
+                "row": 3,
+                "column": 5
+            },
+            {
+                "name": "[Happiness] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% [Happiness] [in all cities]"
+                ],
+                "row": 3,
+                "column": 6
+            },
+            {
+                "name": "[Food] III",
+                "uniques":
+                [
+                    "Free Social Policy","[+3000]% growth [in all cities]"
+                ],
+                "row": 3,
+                "column": 7
             },
             {
                 "name": "Tools Complete",
